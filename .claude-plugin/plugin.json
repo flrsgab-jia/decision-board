@@ -1,0 +1,6 @@
+{
+  "name": "decision-board",
+  "version": "0.3.0",
+  "description": "A pane beside the chat listing the numbered decisions Claude needs from you, each with a recommendation and one-click answers",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "decision-board",
+  "owner": { "name": "flrsgab-jia" },
+  "plugins": [
+    { "name": "decision-board", "source": "./" }
+  ]
+}
